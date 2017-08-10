@@ -2,7 +2,7 @@
 // QueryParser.h    - Parses Client Requests to retrieve arguments. //
 // Version          - 1.1                                           //
 // Last Modified    - 08/10/2017                                    //
-// Language         - Visual C++, Visual Studio 2015                //
+// Language         - Visual C++, Visual Studio 2017                //
 // Platform         - MSI GE62 2QD, Core-i7, Windows 10             //
 // Author           - Venkata Bharani Krishna Chekuri               //
 // e-mail           - bharanikrishna7@gmail.com                     //

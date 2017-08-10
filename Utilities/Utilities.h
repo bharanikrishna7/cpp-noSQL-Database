@@ -2,7 +2,7 @@
 // Utilities.h      - small, generally useful, helper classes	//
 // Version          - 1.1                                       //
 // Last Modified    - 05/05/2016                                //
-// Language         - Visual C++, Visual Studio 2015            //
+// Language         - Visual C++, Visual Studio 2017            //
 // Platform         - MSI GE62 2QD, Core-i7, Windows 10         //
 // Author           - Venkata Bharani Krishna Chekuri           //
 // e-mail           - bharanikrishna7@gmail.com                 //
